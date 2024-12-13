@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopar_3", "loopar_3\loopar_3.csproj", "{366092F4-6291-48FD-8926-06E515C39B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366092F4-6291-48FD-8926-06E515C39B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366092F4-6291-48FD-8926-06E515C39B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366092F4-6291-48FD-8926-06E515C39B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366092F4-6291-48FD-8926-06E515C39B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18EB5AF9-91CC-4A8F-864C-B4BFB8B30D1A}
+	EndGlobalSection
+EndGlobal
